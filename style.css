@@ -10,8 +10,8 @@ body{
     height: 25rem;
     width: 20rem;
     align-items: flex-end;
-    /* margin-left: auto;
-    top: 200px; */
+    margin-left: auto; 
+    top: 200px;
 }
 
 .header {
@@ -89,9 +89,6 @@ li {
     
     font-size: 18px;
 } 
-
-
-
 
 
 
